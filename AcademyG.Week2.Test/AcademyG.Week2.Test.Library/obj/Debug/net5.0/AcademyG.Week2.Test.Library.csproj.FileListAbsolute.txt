@@ -1,0 +1,12 @@
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\bin\Debug\net5.0\AcademyG.Week2.Test.Library.deps.json
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\bin\Debug\net5.0\AcademyG.Week2.Test.Library.dll
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\bin\Debug\net5.0\ref\AcademyG.Week2.Test.Library.dll
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\bin\Debug\net5.0\AcademyG.Week2.Test.Library.pdb
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.csproj.AssemblyReference.cache
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.AssemblyInfoInputs.cache
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.AssemblyInfo.cs
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.csproj.CoreCompileInputs.cache
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.dll
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\ref\AcademyG.Week2.Test.Library.dll
+C:\Users\debora.spano\Desktop\Week2.Test\AcademyG.Week2.Test\AcademyG.Week2.Test.Library\obj\Debug\net5.0\AcademyG.Week2.Test.Library.pdb

@@ -1,0 +1,4 @@
+Code;Description;Amount;ReceiptDate;Quantity;TypeGood;(ElementiDelleClassi)
+003;electronic1;22.2;09/02/2020;2;electronicgood;debora
+004;perishable1;44.3;02/07/2019;3;perishablegood;11/11/2022;fridge
+005;spiritdrink1;33.4;05/05/2018;4;spiritdrinkgood;wodka;10

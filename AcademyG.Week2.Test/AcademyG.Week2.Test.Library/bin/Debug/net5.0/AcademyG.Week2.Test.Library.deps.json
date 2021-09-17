@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AcademyG.Week2.Test.Library/1.0.0": {
+        "runtime": {
+          "AcademyG.Week2.Test.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyG.Week2.Test.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
